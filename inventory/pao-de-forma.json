@@ -1,0 +1,14 @@
+{
+    "name": "🍞 Pão de forma",
+    "class": "carbs",
+    "purchase": {
+        "quantity": 1,
+        "unit": "packs",
+        "addStock": 16,
+        "danger": 6
+    },
+    "stock": {
+        "quantity": 33,
+        "unit": "slices"
+    }
+}

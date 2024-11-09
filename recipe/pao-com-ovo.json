@@ -1,0 +1,9 @@
+{
+    "name": "Pão com ovo",
+    "instructions": "Fazer uma omelete e colocar entre duas fatias de pão de forma.",
+    "class": "breakfast",
+    "ingredients": {
+      "ovo": 1,
+      "pao-de-forma": 2
+    }
+}

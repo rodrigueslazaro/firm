@@ -1,0 +1,14 @@
+ {
+   "name": "🌾 Farinha de trigo",
+   "class": "carbs",
+   "purchase": {
+      "quantity": 1,
+      "unit": "pack",
+      "addStock": 1000,
+      "danger": 100
+   },
+   "stock": {
+      "quantity": 300,
+      "unit": "grams"
+   }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "🍌 Banana",
+    "class": "carbs",
+    "purchase": {
+        "quantity": 6,
+        "unit": "units",
+        "addStock": 6,
+        "danger": 1
+    },
+    "stock": {
+        "quantity": 6,
+        "unit": "units"
+    }
+}

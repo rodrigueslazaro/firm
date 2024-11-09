@@ -1,0 +1,9 @@
+{
+    "name": "Salada de frutas",
+    "instructions": "Picar as frutas e misturar",
+    "class": "breakfast",
+    "ingredients": {
+      "maca": 1,
+      "banana": 1
+    }
+}

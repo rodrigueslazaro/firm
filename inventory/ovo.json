@@ -1,0 +1,14 @@
+{
+    "name": "🥚 Ovo",
+    "class": "protein",
+    "purchase": {
+        "quantity": 1,
+        "unit": "packs",
+        "addStock": 20,
+        "danger": 6
+    },
+    "stock": {
+        "quantity": 65,
+        "unit": "units"
+    }
+}
